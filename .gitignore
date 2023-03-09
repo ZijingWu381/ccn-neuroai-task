@@ -1,0 +1,22 @@
+# OS generated files 
+.DS_Store
+
+# Python generated files 
+__pycache__/
+
+# environment 
+.env
+venv/
+env/
+
+# jupyter notebook 
+.ipynb_checkpoints/
+
+# model metamer repos
+model_metamers*/
+
+# rmft repo
+neural_manifolds_replicaMFT/
+
+# notebooks
+notebooks/

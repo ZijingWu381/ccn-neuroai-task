@@ -1,0 +1,1 @@
+# Solution repo for CCN NeuroAI example task with MNIST
